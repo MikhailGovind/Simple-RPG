@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level Manager
+  - Collapsable Platform
+  - Collectable
+  - TestingTag
+  - Check Point
+  - Enemy_walking
+  - Enemy_jumping
+  - Enemy_flying
+  - Powerup
+  - Key
+  - GFX
+  - Platform
+  - VFX
+  - SFX
+  - Projectile_player
+  - Projectile_enemy
+  - Player_gfx
+  - Spike Trap
+  - Moving Platform
+  - Music
+  - Chest
+  - Event
+  - BagObject
+  - Bag
+  - Armor
+  - Helmet
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Level Geo
+  - One Way Platforms
+  - Collectables
+  - Trigger Volumes
+  - VFX
+  - Projectiles
+  - Moving Platforms
+  - InvisibleBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

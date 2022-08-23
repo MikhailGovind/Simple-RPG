@@ -1,0 +1,12 @@
+* Animations are controlled by the 'MovingEntity_animCtrl' Animatior Controller.
+* Location: [Assets>anim>moving_entity]
+* The controller has a parameter named 'animState' which controls which animation plays.
+* 'animState' is an integer, here are the animations that it's value represents:
+
+0 = idle
+1 = walk
+2 = jumping (blend tree containing 2 clips, controlled by 'jumpFallBlend' float parameter, remeber to set it!)
+3 = duck
+4 = shoot
+
+* You can add more animations if you need to, just keep counting up from 5...

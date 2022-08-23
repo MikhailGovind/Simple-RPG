@@ -1,0 +1,11 @@
+This Framework uses Prime31's 'CharacterController2D.cs' script.
+
+This folder contains all the scripts that come with the Prime31 'CharacterController2D' project.
+
+Find it on GitHub here:
+https://github.com/prime31/CharacterController2D
+
+It is released under the 'Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)' 
+Creative Commons license. If you decide to use it in a project, make sure that you read the license:
+http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
