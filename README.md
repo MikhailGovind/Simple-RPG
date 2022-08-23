@@ -1,2 +1,2 @@
 # Turn-based-combat-and-Inventory-system-game
-A turn-based combat game with an inventory system made with Unity
+A simple RPG game involving turn-based combat with an inventory system made with Unity
